@@ -35,3 +35,4 @@ graph TD
 - **Track**: Data model representing a music track.
 - **MyExceptionMapper**: Exception mapper to handle API errors.
 - **TrackNotFoundException**: Custom exception for tracks not found.
+# EXMINIM
