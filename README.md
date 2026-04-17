@@ -1,1 +1,1 @@
-EXMINIM
+Els test funcionen correctament, pero a la pagina no acaba de donar correctament les funcionalitats. Si que dona correctament el ranquin de isntituts pero no guarda be a la cua les operacions.
